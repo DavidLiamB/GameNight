@@ -1,0 +1,15 @@
+/* BASIC STYLES HERE */
+img {
+  height: 2em;
+  width: 2em;
+  object-fit: cover;
+  border-radius: 100%;
+}
+
+button {
+  border-radius: 100%;
+}
+
+p {
+  margin-bottom: 0;
+}
